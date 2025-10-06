@@ -1,5 +1,3 @@
-![Funny meme to start with](images/meme.webp)
-
 # 👋 Hi, I'm Eliott Colson
 
 💻 Software engineer & AI enthusiast  
@@ -44,4 +42,10 @@
 
 ---
 
-⭐️ _"Code, break, fix, repeat – that’s how I learn!"_
+⭐️ _"Code, break, fix, repeat – that’s how I learn!"_  
+
+---
+
+👉 And to wrap up, here’s a funny meme about computer science and how it’s perceived from the outside:  
+
+![Funny meme to end with](images/meme.webp)
